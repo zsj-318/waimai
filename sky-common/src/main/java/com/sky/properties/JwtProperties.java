@@ -24,3 +24,4 @@ public class JwtProperties {
     private String userTokenName;
 
 }
+
